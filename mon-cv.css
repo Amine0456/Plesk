@@ -1,0 +1,39 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+
+strong{
+        color: #5D8AA8;
+}
+
+h1,h2{
+    text-align: center;
+    color: #5D8AA8;
+}
+
+h4{
+    text-align: center;
+    color: #333A73;
+    background-color: #9BB0C1;
+}
+
+.section1{
+        text-align: left;
+        color: white;
+        height: 60px;
+        width: 25%;
+        border-style: solid;
+        background-color: #5D8AA8;
+        border-color: #5D8AA8;
+}
+
+footer{
+    text-align: center;
+    color: #333A73;
+}
+
+.compétences{
+    text-align: center;
+    color: #5D8AA8;
+}
